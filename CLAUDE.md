@@ -31,7 +31,7 @@ floci-console/
       api/                  # HTTP client to ASP.NET backend
     package.json
     vite.config.ts
-  docker-compose.yml
+  docker-compose.yaml
   .env                      # Floci endpoint + credentials (not committed)
   .env.example
 ```
